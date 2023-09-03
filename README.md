@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kartik Maheshwari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yes&label=Profile%20views&color=0e75b6&style=flat" alt="yes" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yes&label=Profile%20views&color=0e75b6&style=flat" alt="yes" width="150"/> </p>
 
 - 🌱 I’m currently learning **Frontend Development**
 
@@ -14,13 +14,25 @@
 - 📄 Know about my experiences [daalni ahi](daalni ahi)
 
 ## Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/yes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yes" height="30" width="50" /></a>
-<a href="https://www.codechef.com/users/yes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yes" height="30" width="50" /></a>
-<a href="https://www.hackerrank.com/yes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yes" height="30" width="50" /></a>
-<a href="https://www.leetcode.com/yes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yes" height="30" width="50" /></a>
-<a href="https://auth.geeksforgeeks.org/user/yes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yes" height="30" width="50" /></a>
-</p>
+
+[<img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+
+[<img align="left" alt="medium" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />][leetcode]
+
+[<img align="left" alt="medium" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />][gfg]
+
+[<img align="left" alt="medium" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />][codechef]
+
+[<img align="left" alt="medium" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />][hackerrank]
+
+
+
+[linkedin]:https://google.com
+[leetcode]:https://google.com
+[hackerrank]:https://google.com
+[gfg]:https://google.com
+[codechef]:https://google.com
+<br/>
 
 ## Languages and Tools:</h3>
 
