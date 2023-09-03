@@ -1,16 +1,83 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Kartik Maheshwari</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yes&label=Profile%20views&color=0e75b6&style=flat" alt="yes" /> </p>
+
+- 🌱 I’m currently learning **Frontend Development**
+
+- 👨‍💻 All of my projects are available at [Abhi daalonga](Abhi daalonga)
+
+- 💬 Ask me about **HTML, CSS, JavaScript, Programming**
+
+- 📫 How to reach me **abc**
+
+- 📄 Know about my experiences [daalni ahi](daalni ahi)
+
+## Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/yes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yes" height="30" width="50" /></a>
+<a href="https://www.codechef.com/users/yes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yes" height="30" width="50" /></a>
+<a href="https://www.hackerrank.com/yes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yes" height="30" width="50" /></a>
+<a href="https://www.leetcode.com/yes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yes" height="30" width="50" /></a>
+<a href="https://auth.geeksforgeeks.org/user/yes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yes" height="30" width="50" /></a>
+</p>
+
+## Languages and Tools:</h3>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img width="20" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="firebase logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" alt="googlecloud logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+</div>
+
+###
+
+###
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yes&show_icons=true&locale=en&layout=compact" alt="yes" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yes&show_icons=true&locale=en" alt="yes" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yes&" alt="yes" /></p> -->
 
 <!--
-**Kartik-Maheshwari/Kartik-Maheshwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Kartik-Maheshwari's Stats](https://github-readme-stats.vercel.app/api?username=Kartik-Maheshwari&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) 
 
-Here are some ideas to get you started:
+![Kartik-Maheshwari's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kartik-Maheshwari&theme=vue-dark&hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Kartik-Maheshwari's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-Maheshwari&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) -->
+<div align="center">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartik-Maheshwari&theme=vue-dark&hide_border=true" alt="yes" width="530"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kartik-Maheshwari&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="yes" width="500"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-Maheshwari&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="yes" width="450"/>
+</div>
