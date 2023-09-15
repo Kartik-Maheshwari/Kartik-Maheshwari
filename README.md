@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abc**
 
-- 📄 Know about my experiences [daalni ahi](daalni ahi)
+- 📄 Know about my experiences [daalni hai](daalni hai)
 
 ## Connect with me:
 
@@ -28,8 +28,8 @@
 
 
 [linkedin]:https://google.com
-[leetcode]:https://google.com
-[hackerrank]:https://google.com
+[leetcode]:https://www.linkedin.com/in/kartik-maheshwari-53275723b
+[hackerrank]:https://www.hackerrank.com/CSB_21B0121089
 [gfg]:https://google.com
 [codechef]:https://google.com
 <br/>
