@@ -27,7 +27,7 @@
 
 
 
-[linkedin]:https://google.com
+[linkedin]:https://www.linkedin.com/in/kartik-maheshwari-53275723b
 [leetcode]:https://www.linkedin.com/in/kartik-maheshwari-53275723b
 [hackerrank]:https://www.hackerrank.com/CSB_21B0121089
 [gfg]:https://google.com
