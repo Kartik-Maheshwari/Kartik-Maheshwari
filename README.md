@@ -28,10 +28,10 @@
 
 
 [linkedin]:https://www.linkedin.com/in/kartik-maheshwari-53275723b
-[leetcode]:https://www.linkedin.com/in/kartik-maheshwari-53275723b
+[leetcode]:https://leetcode.com/KartikMaheshwari07
 [hackerrank]:https://www.hackerrank.com/CSB_21B0121089
-[gfg]:https://google.com
-[codechef]:https://google.com
+[gfg]:https://auth.geeksforgeeks.org/user/kartikmaheshwari07
+[codechef]:https://www.codechef.com/users/kartikm_07
 <br/>
 
 ## Languages and Tools:</h3>
