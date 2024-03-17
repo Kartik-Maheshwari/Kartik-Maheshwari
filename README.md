@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yes&label=Profile%20views&color=0e75b6&style=flat" alt="yes" width="150"/> </p>
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **FullStack Development**
 
-- 👨‍💻 All of my projects are available at [Abhi daalonga](Abhi daalonga)
+- 👨‍💻 All of my projects are available at :
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Programming**
+- 💬 Ask me about **HTML, CSS, JavaScript,ReactJs, MongoDB, Express, NodeJS, Programming**
 
-- 📫 How to reach me **abc**
+<!-- - 📫 How to reach me **abc* --> 
 
-- 📄 Know about my experiences [daalni hai](daalni hai)
+<!-- - 📄 Know about my experiences [daalni hai](daalni hai) -->
 
 ## Connect with me:
 
