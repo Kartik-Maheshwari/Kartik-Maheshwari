@@ -6,7 +6,7 @@
 </p>
 
 - 🌱 I’m currently learning **FullStack Development**
-- 👨‍💻 All of my projects are available at: [KTMPortfolio](https://kartik-maheshwari.github.io/ktmportfolio/)
+- 👨‍💻 All of my projects are available at: [Kartik's Portfolio](https://ktmportfolio.netlify.app/)
 - 💬 Ask me about **HTML, CSS, JavaScript, ReactJs, MongoDB, Express, NodeJS, Programming**
 
 <!-- - 📫 How to reach me **abc* --> 
